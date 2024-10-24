@@ -48,7 +48,7 @@ This section outlines the detailed steps taken for model selection, dataset prep
    
 2. **Preprocessing**:
    - **Audio Processing**:
-     - Convert all audio files to a consistent format (e.g., 22050 Hz sample rate, mono channel).
+     - Convert all audio files to a consistent format (16000 Hz sample rate, mono channel).
      - Normalize audio levels to ensure consistent volume across samples.
    - **Text Cleaning**:
      - Remove any extraneous characters or formatting from the transcripts to ensure clean input for the model.
