@@ -92,6 +92,8 @@ This section outlines the detailed steps taken for model selection, dataset prep
 
 By following this methodology, we can ensure that the SpeechT5 model is effectively fine-tuned on the LJ Speech dataset, resulting in a robust TTS system capable of producing high-quality speech outputs.
 
+MODEL LINK:https://huggingface.co/lithish2602/TTS_FINETUNE_ENGLISH
+
 
 RESULTS:
 
