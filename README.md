@@ -73,7 +73,7 @@ This section outlines the detailed steps taken for model selection, dataset prep
 
 3. **Hyperparameter Configuration**:
    - Set hyperparameters such as learning rate, batch size, and the number of epochs. Commonly used values might include:
-     - Learning Rate: 1e-4
+     - Learning Rate: 1e-5
      - Batch Size: 16
      - Epochs: 10/11
 
